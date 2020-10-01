@@ -1,10 +1,10 @@
-# Stajler veya Yeni İşe girişler için iş planı
+# Stajyerler veya Yeni İşe girişler için iş planı
 3-4 aylık uzun dönem staj yapan kişiler ve yeni başlanlar için bir rehber hazırlanması gerektiği kararı alınmıştır.
 
 - Oryantasyon (1 gün)
     - Mentör atanacak. Mentör arkadaş, kurumdaki diğer kişiler ile tanıştırmalı.
     - Kurum faaliyetleri ve kurum kültürü hakkında bilgilendirmeli.
-    - Teknik olarka basit düzeyde `AnkaGEO` ne yapıyor, nasıl yapıyor anlatılmalı.
+    - Teknik olarak basit düzeyde `AnkaGEO` ne yapıyor, nasıl yapıyor anlatılmalı.
 - [Temel düzeyde `Git`  ve `Github` eğitimi](./git_github/README.md) (1 gün)
 - `HTML`, `Css 3`, `JavaScript` Web Programlama Eğitimi (Feyzullah Hazırlayacak) (5 gün)
     - `Html` ve `Css` 3 Soruları (2 gün)
