@@ -6,7 +6,7 @@
     - Kurum faaliyetleri ve kurum kültürü hakkında bilgilendirmeli.
     - Teknik olarak basit düzeyde `AnkaGEO` ne yapıyor, nasıl yapıyor anlatılmalı.
 - [Temel düzeyde `Git`  ve `Github` eğitimi](./git_github/README.md) (1 gün)
-- `HTML`, `Css 3`, `JavaScript` Web Programlama Eğitimi (Feyzullah Hazırlayacak) (5 gün)
+- [`HTML`, `Css 3`, `JavaScript`](./html_css_javascript/README.md) Web Programlama Eğitimi (Feyzullah Hazırlayacak) (5 gün)
     - `Html` ve `Css` 3 Soruları (2 gün)
         - ilgili css [videosu](https://www.youtube.com/watch?v=ieTHC78giGQ) izlenecek.
         - 4 seviye sorular hazırlanacak
@@ -21,7 +21,7 @@
     - `Openlayers` nedir ve nasıl kullanılır.
     - `Openlayers` soruları.
 - Temel `Angular` eğitimi (3 gün) (Hüseyin)
-    - İlgili eğitim [videosu]((https://www.youtube.com/watch?v=2OHbjep_WjQ)) izlenecek 01:55:54'a kadar izlenecek.
+    - İlgili eğitim [videosu](https://www.youtube.com/watch?v=2OHbjep_WjQ)  izlenecek 01:55:54'a kadar izlenecek.
     - Sorular hazırlanacak.
     - Harita Programcılığı projesi `Angular`'a geçirilecek
 - Temel `Nodejs` eğitimi (2 gün) (Feyzullah)
