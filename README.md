@@ -25,7 +25,7 @@
 - Harita Programcılığı (Hüseyin Hazırlayacak) (4 gün)
     - `Openlayers` nedir ve nasıl kullanılır.
     - `Openlayers` soruları.
-- Temel `Angular` eğitimi (3 gün) (Hüseyin)
+- Temel [`Angular`](./angular/README.md) eğitimi (3 gün) (Hüseyin)
     - İlgili eğitim [videosu](https://www.youtube.com/watch?v=2OHbjep_WjQ)  izlenecek 01:55:54'a kadar izlenecek.
     - Sorular hazırlanacak.
     - Harita Programcılığı projesi `Angular`'a geçirilecek
