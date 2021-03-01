@@ -14,3 +14,4 @@ Browserların cache mekanizması vardır. Bir siteye ilk defa girdiğiniz ile ik
 - [detayları için](./css/README.md)
 
 ## JavaScript
+- [detayları için](./javascript/README.md)
