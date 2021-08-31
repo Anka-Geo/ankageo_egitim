@@ -36,3 +36,4 @@
 - Final Projesi (3 gün)
     - Üstteki bilgileri kullanacak şekilde bir proje hazırlanacak.
 
+# [Challenges](challenge/README.md)
