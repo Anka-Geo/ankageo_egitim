@@ -9,7 +9,7 @@
     - Bardak kullanımı
     - Çay demlenmiş mi nasıl anlarız
     - Sıvı çöpü ve normal çöp kullanma talimatı
-    - Çalışanlar için teknopar turnike çalışma mantığı 
+    - Çalışanlar için teknopark turnike çalışma mantığı 
 - [Temel düzeyde `Git`  ve `Github` eğitimi](./git_github/README.md) (1 gün)
 - [`HTML`, `Css 3`, `JavaScript`](./html_css_javascript/README.md) Web Programlama Eğitimi (Feyzullah Hazırlayacak) (5 gün)
     - `Html` ve `Css` 3 Soruları (2 gün)
